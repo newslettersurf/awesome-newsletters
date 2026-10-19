@@ -158,6 +158,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 ## AI & Machine Learning
 
+- [Agent Cookbook](https://agentcookbook.dev/updates) - A free weekly newsletter of real AI agent setups people made money with.
 - [Ahead of AI](https://magazine.sebastianraschka.com?utm_source=newsletter.surf) - [review](https://newsletter.surf/newsletter/ahead-of-ai) - Deep dives into ML research, for people who read papers.
 - [AI for Professionals](https://submitaitools.substack.com?utm_source=newsletter.surf) - [review](https://newsletter.surf/newsletter/ai-for-professionals-submit-ai-tools-substack) - A monthly roundup of new, practical AI tools worth knowing about.
 - [AI Snake Oil](https://www.aisnakeoil.com?utm_source=newsletter.surf) - [review](https://newsletter.surf/newsletter/ai-snake-oil) - Cutting through AI hype with academic rigor.
